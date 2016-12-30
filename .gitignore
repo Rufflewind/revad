@@ -1,0 +1,76 @@
+# generic
+.#*
+\#*#
+.nfs????
+[tT]humbs.db
+*~
+*.dep
+*.log
+*.orig
+*.pid
+*.tmp
+
+# native
+a.out
+*.a
+*.aps
+*.dll
+*.dylib
+*.exe
+*.gcda
+*.gch
+*.gcno
+*.ipch
+*.lcov
+*.lib
+*.ncb
+*.o
+*.obj
+*.opensdf
+*.pch
+*.so
+*.sdf
+*.stackdump
+*.suo
+*.user
+
+# Fortran
+*.mod
+
+# Haskell
+.cabal-sandbox/
+.stack-work/
+dist/
+cabal.config
+cabal.sandbox.config
+stack.yaml
+*.chi
+*.hcr
+*.hi
+
+# JavaScript
+node_modules/
+
+# Python
+MANIFEST
+__pycache__
+*.pyc
+
+# Rust
+target/
+Cargo.lock
+
+# TeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.thm
+*.toc
+*Notes.bib
+
+# web
+.sass-cache
+*.css.map
+*.js.map
